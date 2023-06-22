@@ -90,9 +90,9 @@ p{
 img{
     padding-top: 30px;
     padding-left: 30px;
-    width: 550px;
-    height: 450px;
+    width: 22%;
 }
+
 .texto{
     font-size:28px ;
     color: black;
@@ -117,8 +117,7 @@ img{
 
 
 .songs{
-    width: 350px;
-    height: 500px;
+    width: 22%;
     padding-left: 20px;
 }
 

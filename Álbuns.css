@@ -132,9 +132,11 @@ img{
 .album-texto{
     display: flex;
     padding-bottom: 200px;
+    width: 100%;
 }
 
 p{
     padding-top: 30px;
     padding-left: 50px;
 }
+
